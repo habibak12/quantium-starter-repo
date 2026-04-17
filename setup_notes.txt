@@ -1,0 +1,8 @@
+Python 3.9 virtual environment created.
+
+Installed dependencies:
+- dash
+- pandas
+- dash[testing]
+
+Development environment set up successfully.
